@@ -1,0 +1,1036 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ANIMAL PLANET">
+    <display-name lang="pt">ANIMAL PLANET</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET HD">
+    <display-name lang="pt">ANIMAL PLANET HD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/multishow.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ARTE 1">
+    <display-name lang="pt">ARTE 1</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ARTE 1 HD">
+    <display-name lang="pt">ARTE 1 HD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/9-comodoro.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN FULL HD">
+    <display-name lang="pt">AXN FULL HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BAND NEWS">
+    <display-name lang="pt">BAND NEWS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GLOBO NEWS">
+    <display-name lang="es">GLOBO NEWS HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="GLOBO RJ">
+    <display-name lang="es">GLOBO RIO DE JANEIRO HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="GLOBO SP">
+    <display-name lang="pt">GLOBO SÃO PAULO HD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/canal36-vr.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20200326000300 -0300" stop="20200326005700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Caçador de Crocodilos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326005700 -0300" stop="20200326015100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326015100 -0300" stop="20200326024500 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326024500 -0300" stop="20200326031200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326031200 -0300" stop="20200326033900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326033900 -0300" stop="20200326043200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Perdido na Amazônia</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326043200 -0300" stop="20200326052500 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">SOS VET</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326052500 -0300" stop="20200326061800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Zoológico</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326061800 -0300" stop="20200326064300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326064300 -0300" stop="20200326073400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326073400 -0300" stop="20200326082500 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326082500 -0300" stop="20200326091700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326091700 -0300" stop="20200326100900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326100900 -0300" stop="20200326110100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326110100 -0300" stop="20200326115300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326115300 -0300" stop="20200326124600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326124600 -0300" stop="20200326133900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">SOS VET</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326133900 -0300" stop="20200326143200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">SOS VET</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326143200 -0300" stop="20200326152400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">SOS VET</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326152400 -0300" stop="20200326161600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326161600 -0300" stop="20200326170800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326170800 -0300" stop="20200326180000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326180000 -0300" stop="20200326182600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326182600 -0300" stop="20200326185200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326185200 -0300" stop="20200326194300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326194300 -0300" stop="20200326203400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326203400 -0300" stop="20200326212900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Predadores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326212900 -0300" stop="20200326222400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Dinastias</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326222400 -0300" stop="20200326232000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Attenborough e o Dinossauro Gigante</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326232000 -0300" stop="20200327001300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326010000 -0300" stop="20200326020000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326020000 -0300" stop="20200326023000 -0300" channel="ARTE 1">
+    <title lang="pt">Insight</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326023000 -0300" stop="20200326030000 -0300" channel="ARTE 1">
+    <title lang="pt">Insight</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326030000 -0300" stop="20200326033000 -0300" channel="ARTE 1">
+    <title lang="pt">Dois Pontos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326033000 -0300" stop="20200326051500 -0300" channel="ARTE 1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326051500 -0300" stop="20200326053000 -0300" channel="ARTE 1">
+    <title lang="pt">Trajetória</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326053000 -0300" stop="20200326060000 -0300" channel="ARTE 1">
+    <title lang="pt">Um Artista</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326060000 -0300" stop="20200326063000 -0300" channel="ARTE 1">
+    <title lang="pt">Insight</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326063000 -0300" stop="20200326070000 -0300" channel="ARTE 1">
+    <title lang="pt">Insight</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326070000 -0300" stop="20200326073000 -0300" channel="ARTE 1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326073000 -0300" stop="20200326093000 -0300" channel="ARTE 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326093000 -0300" stop="20200326103000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326103000 -0300" stop="20200326113000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Visual</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326113000 -0300" stop="20200326120000 -0300" channel="ARTE 1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326120000 -0300" stop="20200326123000 -0300" channel="ARTE 1">
+    <title lang="pt">O Tempo e a Música</title>
+    <sub-title lang="pt">Depois do Fim da Canção</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326123000 -0300" stop="20200326130000 -0300" channel="ARTE 1">
+    <title lang="pt">Um Artista</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326130000 -0300" stop="20200326141500 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 na Dança</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326141500 -0300" stop="20200326143000 -0300" channel="ARTE 1">
+    <title lang="pt">Trajetória</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326143000 -0300" stop="20200326150000 -0300" channel="ARTE 1">
+    <title lang="pt">Um Artista</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326150000 -0300" stop="20200326170000 -0300" channel="ARTE 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326170000 -0300" stop="20200326180000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326180000 -0300" stop="20200326190000 -0300" channel="ARTE 1">
+    <title lang="pt">Work In Progress</title>
+    <sub-title lang="pt">Por Dentro da OSESP</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326190000 -0300" stop="20200326193000 -0300" channel="ARTE 1">
+    <title lang="pt">Dois Pontos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326193000 -0300" stop="20200326203000 -0300" channel="ARTE 1">
+    <title lang="pt">Bio Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326203000 -0300" stop="20200326210000 -0300" channel="ARTE 1">
+    <title lang="pt">Immersive World</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326210000 -0300" stop="20200326213000 -0300" channel="ARTE 1">
+    <title lang="pt">Immersive World</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326213000 -0300" stop="20200326220000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326220000 -0300" stop="20200326220500 -0300" channel="ARTE 1">
+    <title lang="pt">Lista Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326220500 -0300" stop="20200326222200 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326222200 -0300" stop="20200326223000 -0300" channel="ARTE 1">
+    <title lang="pt">Primeira Vez Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326223000 -0300" stop="20200326230000 -0300" channel="ARTE 1">
+    <title lang="pt">Especial Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326230000 -0300" stop="20200327010000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Documenta</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326004500 -0300" stop="20200326014000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326014000 -0300" stop="20200326023500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326023500 -0300" stop="20200326033000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326033000 -0300" stop="20200326042000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326042000 -0300" stop="20200326051000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326051000 -0300" stop="20200326060000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326060000 -0300" stop="20200326070000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326070000 -0300" stop="20200326080000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326080000 -0300" stop="20200326090000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326090000 -0300" stop="20200326100000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326100000 -0300" stop="20200326110000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326110000 -0300" stop="20200326115500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326115500 -0300" stop="20200326125000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326125000 -0300" stop="20200326134500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326134500 -0300" stop="20200326144000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326144000 -0300" stop="20200326153500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326153500 -0300" stop="20200326163000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326163000 -0300" stop="20200326172500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326172500 -0300" stop="20200326182000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326182000 -0300" stop="20200326191500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326191500 -0300" stop="20200326201000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326201000 -0300" stop="20200326210500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326210500 -0300" stop="20200326220000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326220000 -0300" stop="20200326225500 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326225500 -0300" stop="20200326234500 -0300" channel="AXN">
+    <title lang="pt">Seal Team</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326234500 -0300" stop="20200327003500 -0300" channel="AXN">
+    <title lang="pt">Seal Team</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326004500 -0300" stop="20200326014000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326014000 -0300" stop="20200326023500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326023500 -0300" stop="20200326033000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326033000 -0300" stop="20200326042000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326042000 -0300" stop="20200326051000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326051000 -0300" stop="20200326060000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326060000 -0300" stop="20200326070000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326070000 -0300" stop="20200326080000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326080000 -0300" stop="20200326090000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326090000 -0300" stop="20200326100000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326100000 -0300" stop="20200326110000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326110000 -0300" stop="20200326115500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326115500 -0300" stop="20200326125000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326125000 -0300" stop="20200326134500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326134500 -0300" stop="20200326144000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326144000 -0300" stop="20200326153500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326153500 -0300" stop="20200326163000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326163000 -0300" stop="20200326172500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326172500 -0300" stop="20200326182000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326182000 -0300" stop="20200326191500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326191500 -0300" stop="20200326201000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326201000 -0300" stop="20200326210500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326210500 -0300" stop="20200326220000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326220000 -0300" stop="20200326225500 -0300" channel="AXN HD">
+    <title lang="pt">The Blacklist</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326225500 -0300" stop="20200326234500 -0300" channel="AXN HD">
+    <title lang="pt">Seal Team</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326234500 -0300" stop="20200327003500 -0300" channel="AXN HD">
+    <title lang="pt">Seal Team</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326004500 -0300" stop="20200326014000 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326014000 -0300" stop="20200326023500 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326023500 -0300" stop="20200326033000 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326033000 -0300" stop="20200326042000 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326042000 -0300" stop="20200326051000 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326051000 -0300" stop="20200326060000 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326060000 -0300" stop="20200326070000 -0300" channel="AXN FULL HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326070000 -0300" stop="20200326080000 -0300" channel="AXN FULL HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326080000 -0300" stop="20200326090000 -0300" channel="AXN FULL HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326090000 -0300" stop="20200326100000 -0300" channel="AXN FULL HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326100000 -0300" stop="20200326110000 -0300" channel="AXN FULL HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326110000 -0300" stop="20200326115500 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326115500 -0300" stop="20200326125000 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326125000 -0300" stop="20200326134500 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326134500 -0300" stop="20200326144000 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326144000 -0300" stop="20200326153500 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326153500 -0300" stop="20200326163000 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326163000 -0300" stop="20200326172500 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326172500 -0300" stop="20200326182000 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326182000 -0300" stop="20200326191500 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326191500 -0300" stop="20200326201000 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326201000 -0300" stop="20200326210500 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326210500 -0300" stop="20200326220000 -0300" channel="AXN FULL HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326220000 -0300" stop="20200326225500 -0300" channel="AXN FULL HD">
+    <title lang="pt">The Blacklist</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326225500 -0300" stop="20200326234500 -0300" channel="AXN FULL HD">
+    <title lang="pt">Seal Team</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326234500 -0300" stop="20200327003500 -0300" channel="AXN FULL HD">
+    <title lang="pt">Seal Team</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326000000 -0300" stop="20200326020000 -0300" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326020000 -0300" stop="20200326030000 -0300" channel="BAND NEWS">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326030000 -0300" stop="20200326033000 -0300" channel="BAND NEWS">
+    <title lang="pt">BandNews DOCs</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326033000 -0300" stop="20200326040000 -0300" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326040000 -0300" stop="20200326043000 -0300" channel="BAND NEWS">
+    <title lang="pt">Jornal Terraviva</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326043000 -0300" stop="20200326060000 -0300" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326060000 -0300" stop="20200326074500 -0300" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326074500 -0300" stop="20200326080000 -0300" channel="BAND NEWS">
+    <title lang="pt">Giro Business</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326080000 -0300" stop="20200326084500 -0300" channel="BAND NEWS">
+    <title lang="pt">Manhã Bandnews</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326084500 -0300" stop="20200326090000 -0300" channel="BAND NEWS">
+    <title lang="pt">Giro Business</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326090000 -0300" stop="20200326120000 -0300" channel="BAND NEWS">
+    <title lang="pt">Manhã Bandnews</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326120000 -0300" stop="20200326140000 -0300" channel="BAND NEWS">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326140000 -0300" stop="20200326144500 -0300" channel="BAND NEWS">
+    <title lang="pt">Tarde Bandnews</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326144500 -0300" stop="20200326150000 -0300" channel="BAND NEWS">
+    <title lang="pt">Giro Business</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326150000 -0300" stop="20200326170000 -0300" channel="BAND NEWS">
+    <title lang="pt">Tarde Bandnews</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326170000 -0300" stop="20200326180000 -0300" channel="BAND NEWS">
+    <title lang="pt">Mapa Mundi</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326180000 -0300" stop="20200326191500 -0300" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326191500 -0300" stop="20200326193000 -0300" channel="BAND NEWS">
+    <title lang="pt">Giro Business</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326193000 -0300" stop="20200326200000 -0300" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326200000 -0300" stop="20200326203000 -0300" channel="BAND NEWS">
+    <title lang="pt">Expresso Bandnews</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326203000 -0300" stop="20200326213000 -0300" channel="BAND NEWS">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326213000 -0300" stop="20200326220000 -0300" channel="BAND NEWS">
+    <title lang="pt">Mapa Mundi</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326220000 -0300" stop="20200326223000 -0300" channel="BAND NEWS">
+    <title lang="pt">Giro Business</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200326223000 -0300" stop="20200327000000 -0300" channel="BAND NEWS">
+    <title lang="pt">Jornal Bandnews</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
